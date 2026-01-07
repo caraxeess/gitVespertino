@@ -1,3 +1,5 @@
 pollito
 pelicano
 condor
+gallina
+papagallo
