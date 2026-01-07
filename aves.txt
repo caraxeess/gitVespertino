@@ -3,3 +3,5 @@ pelicano
 condor
 gallina
 papagallo
+loro
+cacatua
