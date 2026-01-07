@@ -4,3 +4,7 @@ canelo
 alamo
 palmera
 roble
+manzano
+cerezo
+nogal
+almendro
